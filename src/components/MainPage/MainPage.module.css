@@ -1,0 +1,30 @@
+.item {
+  width: 1200px;
+  height: auto;
+  margin: 10px auto;
+  border-radius: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: auto;
+}
+
+form {
+  margin: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
+  width: 900px;
+}
+
+select {
+  width: 150px;
+  height: 30px;
+  font-weight: 600;
+  border-radius: 12px;
+  outline: none;
+  border: 3px solid black;
+}
+
+option {
+  font-weight: 600;
+}
